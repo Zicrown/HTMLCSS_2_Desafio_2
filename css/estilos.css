@@ -1,0 +1,122 @@
+/* Variables Globales */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    margin: 0%;
+}
+
+nav {
+    display: inline-block;
+}
+
+/* Fin Variables Globales */
+
+/* Header */
+
+header {
+    /* background-color: black; */
+    height: 54px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.elHeader {
+    padding: 16px 6px 16px 10px;
+}
+
+#rayaHeader {
+    padding: 0px 8px 0 12px;
+    font-size: 7vh;
+}
+
+#nombHeader {
+    font-size: 4vh;
+    font-weight: bold;
+}
+
+#logoHeader {
+    width: 108px;
+    float: left;
+    margin-right: 5px;
+}
+
+.liNav1,
+.liNav2 {
+    display: inline-block;
+    font-size: 13px;
+    margin-right: 5vh;
+}
+
+#elHeader3 {
+    float: right;
+    margin-right: 1rem;
+}
+
+.material-symbols-outlined {
+    float: right;
+    font-size: 23px;
+}
+
+/* Fin Header */
+
+/* Inicio Main */
+#letras{
+    margin: 15vh 0 5vh 3vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 9vh;
+    color: #191919;
+}
+#cuadro{
+    background-color: #D3CCEB;
+    border: 6px solid #E9E7F5;
+    border-radius: 8px;
+    margin: 15px 10px 0 4px;
+    height: 362px;
+    width: 99%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#iconoVS{
+    height: 80px;
+}
+.cardDescargas{
+    display: inline-block;
+    height: 74%;
+    width: 16%;
+    padding: 1vh 4vh 0vh 4vh;
+    margin: 0%;
+    position: relative;
+}
+#btnComentarios{
+    padding: 10px 15px 8px;
+    background: #136DBA;
+    color: #C2EAFF;
+    bottom: 4vh;
+    position: fixed;
+    right: 0vh;
+    font-size: 3vh;
+    border-radius: 7px;
+    border: none;
+}
+.btnDescarga{
+    background-color: #3B2E59;
+    color: #E6E2E8;
+    display: inline-block;
+    left: 3vh;
+    position: relative;
+    padding: 3vh 5vh 4vh 6vh;
+    width: 12vh;
+    font-weight: bold;
+}
+.acceso{
+    font-weight: bold;
+    font-size: 2.5vh;
+    display: inline-block;
+    margin: 1vh;
+}
+#flecha1, #flecha2{
+    font-size: 3vh;
+    right: 23vh;
+    top: 1vh;
+}
+/*  */
